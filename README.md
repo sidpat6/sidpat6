@@ -26,7 +26,14 @@ Here are some ideas to get you started:
 **Cloud & Database:** Microsoft Azure, SQLite, MongoDB, SQL  
 **Tools:** GitHub, VS Code, Postman
 
+## ⚽ Extracurricular
+
+- Former Member of RMDSSOE College Football Team  
+- Department Committee “Saint” – Event Organizer for cultural and technical events
+
 ## 📫 Contact Me
 
 📧 siddharthmpatil1@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/siddharth-patil-55749322a)
+
+### ⚡ Fun Fact: I talk to neural networks more than humans... and they actually listen.
